@@ -17,11 +17,12 @@
 
 ## Badges
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Dependency Status](http://img.shields.io/gemnasium/badges/badgerbadgerbadger.svg?style=flat-square)](https://gemnasium.com/badges/badgerbadgerbadger) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) [![Badges](http://img.shields.io/:badges-9/9-ff6799.svg?style=flat-square)](https://github.com/badges/badgerbadgerbadger)
+[![Theme](https://img.shields.io/badge/Theme-Math-blueviolet)](https://img.shields.io/badge/Theme-Math-blueviolet)
+[![Language](https://img.shields.io/badge/Language-CSharp-blueviolet)](https://img.shields.io/badge/Language-CSharp-blueviolet)
 
 ---
 
-## Example (Optional)
+## Example
 
 ```csharp
 /// <summary>
@@ -75,4 +76,4 @@
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2021 © <a href="https://github.com/VsIG-official" target="_blank">VsIG</a>.
+- Copyright 2022 © <a href="https://github.com/VsIG-official" target="_blank">VsIG</a>.
