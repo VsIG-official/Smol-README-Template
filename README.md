@@ -4,13 +4,6 @@
   <img src="https://github.com/VsIG-official/Images/blob/master/LogoFinalWhite.png" data-canonical-src="https://github.com/VsIG-official/Images/blob/master/LogoFinalWhite.png" width="200" height="100" />
 </p>
 
-## Table of Contents
-
-- [Description](#description)
-- [Badges](#badges)
-- [Contributing](#contributing)
-- [License](#license)
-
 ### Description
 
 > Subtitle or Short Description Goes Here
